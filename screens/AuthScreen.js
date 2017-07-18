@@ -27,9 +27,7 @@ class AuthScreen extends Component {
 
   render() {
     return (
-      <View>
-
-      </View>
+      <View />
     );
   }
 }
